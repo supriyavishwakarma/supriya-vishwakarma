@@ -5,6 +5,16 @@
 
 </div>
 
+<div align="center">
+
+<img src="./thor.jpg" width="260" alt="Cute Thor" />
+
+<h3>⚡ Welcome to Supriya's Coding Universe ⚡</h3>
+
+<i>Building my future, one line of code at a time.</i>
+
+</div>
+
 
 
 <h1 align="center">⚡ Hi, I'm Supriya! ⚡</h1>
