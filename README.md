@@ -1,26 +1,16 @@
 
-<div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Pacifico&weight=600&size=28&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=650&height=70&lines=Welcome+to+Supriya's+Universe!;Aspiring+AI+Engineer;Learning+and+Building+Every+Day;Code+with+Love+and+a+Little+Magic!" alt="Typing Animation" />
-
-</div>
 
 
 <div align="center">
 
-<img src="thor.jpg" width="260" alt="Cute Thor" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&height=60&lines=Welcome+to+My+Little+Universe;Hey!+I'm+Supriya;Aspiring+AI+Engineer;Learning+Creating+and+Growing" alt="Typing SVG" />
 
-<h3>⚡ Welcome to Supriya's Coding Universe ⚡</h3>
+<h1>🌸 Hi, I'm Supriya! 🌸</h1>
 
-<i>Building my future, one line of code at a time.</i>
+<h3>🎀 Aspiring AI Engineer | Creative Developer 🎀</h3>
 
 </div>
-
-
-
-<h1 align="center">⚡ Hi, I'm Supriya! ⚡</h1>
-
-<h3 align="center">Aspiring AI Engineer | Developer | Tech Explorer</h3>
 
 <p align="center">
   Welcome to my Coding Universe 🔨
