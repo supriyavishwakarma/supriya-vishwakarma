@@ -7,7 +7,7 @@
 
 <div align="center">
 
-<img src="./thor.jpg" width="260" alt="Cute Thor" />
+<img src="thor.jpg" width="260" alt="Cute Thor" />
 
 <h3>⚡ Welcome to Supriya's Coding Universe ⚡</h3>
 
