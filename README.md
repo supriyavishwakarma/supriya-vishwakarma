@@ -1,4 +1,10 @@
 
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFB7C5,50:FF69B4,100:C084FC&height=180&section=header&text=Supriya's%20Coding%20Universe&fontSize=32&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Learning%20%7C%20Creating%20%7C%20Growing&descAlignY=55" width="100%" alt="Sakura Banner" />
+
+</div>
+
 
 
 
