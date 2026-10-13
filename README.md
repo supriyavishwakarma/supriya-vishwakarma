@@ -1,9 +1,10 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=26&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=THUNDER+HAS+ENTERED+THE+CODE;Welcome+to+Supriya's+Universe;Aspiring+AI+Engineer" alt="Typing Animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Pacifico&weight=600&size=28&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=650&height=70&lines=Welcome+to+Supriya's+Universe!;Aspiring+AI+Engineer;Learning+and+Building+Every+Day;Code+with+Love+and+a+Little+Magic!" alt="Typing Animation" />
 
 </div>
+
 
 <div align="center">
 
