@@ -13,44 +13,51 @@
 </div>
 
 <p align="center">
-  Welcome to my Coding Universe 🔨
+  Welcome to my Coding Universe
 </p>
 
 ---
 
-### ⚡ About Me
+
+### 🌸 About Me
 
 - 🎓 Computer Science Student
-- 🤖 Exploring Artificial Intelligence & Machine Learning
+- 🎀 Aspiring AI Engineer
+- 🌷 Exploring Artificial Intelligence & Machine Learning
 - 💻 Currently learning Python, Java & JavaScript
-- 🚀 Love building real-world projects
-- 🔨 Building my skills, one project at a time!
+- ✨ Love building real-world projects
+- 🌸 Growing one line of code at a time!
 
 ---
 
-### 🔨 My Tech Arsenal
+### 🎀 My Tech Arsenal
 
 ![Skills](https://skillicons.dev/icons?i=python,java,html,css,js,git,github,vscode)
 
 ---
 
-### ⚡ My Projects
+### 🌷 My Projects
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
-| 🛒 Amazon Clone | Amazon-inspired shopping website | HTML, CSS |
+| 🛍️ Amazon Clone | Amazon-inspired shopping website | HTML, CSS |
 | 🌦️ [Weather Dashboard](https://github.com/supriyavishwakarma/weather-dashboard) | Interactive weather application | HTML, CSS, JavaScript |
 | 🏫 [Campus Navigator](https://campus-navigator-azure.vercel.app/) | Smart campus navigation system | HTML, CSS, JavaScript |
 
-
-
 ---
 
-### ⚡ My GitHub Stats
+### 🌸 My GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=supriyavishwakarma&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=supriyavishwakarma&show_icons=true&theme=radical)
 
----
 
-<h3 align="center">⚡ Keep Learning. Keep Building. Stay Worthy. 🔨</h3>
-  
+<div align="center">
+
+<h3>🌸 Thanks for Visiting! 🌸</h3>
+
+<p>Keep Learning • Keep Creating • Keep Blooming</p>
+
+🎀 🌷 🌸
+
+</div>
+
